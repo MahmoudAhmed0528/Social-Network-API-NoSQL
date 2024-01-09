@@ -25,7 +25,7 @@ A social network API built with Express.js and MongoDB, allowing users to share 
 2. Navigate to the project's root directory:
 
    ```bash
-   cd social-network-api
+   cd Social-Network-API-NoSQL
    ```
 
 3. Install dependencies:
